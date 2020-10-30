@@ -8,3 +8,10 @@
 
 **Link to work:**  https://github.com/siva-sankaran/AngularRecipeBook
 
+### Day 1: Octobber 30, 2020
+
+**Today's Progress**: Learned about Routing in Angular from [course](https://www.udemy.com/course/the-complete-guide-to-angular-2/). Removed events and properties used to hide and show components and added Routing logic using Routingmodule of Angular
+
+**Thoughts:** To be honest laziness came up on the first day itself. Distracted to do an Interview assignment then distracted to youtube videos like obama visiting bookstore, icecream parlor, movie clips, vlogs, news/educative documentaries, shows untill 10:45pm. Then I hit the course and play it in 2x finally done this change in few seconds and commited/pushed it.
+
+**Link to work:** https://github.com/siva-sankaran/AngularRecipeBook/commit/dc4419424c8c63d75c7c7d744c32a70bbf79913f
