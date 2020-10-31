@@ -16,10 +16,15 @@
 
 **Link to work:** https://github.com/siva-sankaran/AngularRecipeBook/commit/dc4419424c8c63d75c7c7d744c32a70bbf79913f
 
-### Day 1: Octobber 30, 2020
+### Day 2: Octobber 31, 2020
 
 **Today's Progress**: 
 * Learned RouterLink property to map routes registered in app module with components. 
 * And learned ActivatedRoute object to navigate to routes programmatically. 
 * Learned Differences of relative path from components typescript's code and from routerLink property of acnchor html element <a>
 * Learned to pass route parameters/Query parameters/fragments and fetch parameters/Query parameters/fragments using snapshot obj and Route Observables like this.ActivatedRoute.params
+* Learned Nested Child routes.
+  
+**Thoughts:** Today starting from morning 11.00am to midnight 12.00AM I sat for learning [course](https://www.udemy.com/course/the-complete-guide-to-angular-2/). Implemented parellely on a project what i am learning. at last for the challenge I dedicated last one hour of the day and added nested child routing. I have completed substantial part of course(Routing section gonna finish). Spent time for this was very large. wanna more efficient. wanna code for production ready projects like porting chrome extensions to firefox
+
+**Link to work:** https://github.com/siva-sankaran/AngularRecipeBook/commit/dffe16a1460d1a72cbcca39196ebbdd1a4485e5f
