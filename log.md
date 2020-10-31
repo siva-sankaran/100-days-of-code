@@ -15,3 +15,11 @@
 **Thoughts:** To be honest laziness came up on the first day itself. Distracted to do an Interview assignment then distracted to youtube videos like obama visiting bookstore, icecream parlor, movie clips, vlogs, news/educative documentaries, shows untill 10:45pm. Then I hit the course and play it in 2x finally done this change in few seconds and commited/pushed it.
 
 **Link to work:** https://github.com/siva-sankaran/AngularRecipeBook/commit/dc4419424c8c63d75c7c7d744c32a70bbf79913f
+
+### Day 1: Octobber 30, 2020
+
+**Today's Progress**: 
+* Learned RouterLink property to map routes registered in app module with components. 
+* And learned ActivatedRoute object to navigate to routes programmatically. 
+* Learned Differences of relative path from components typescript's code and from routerLink property of acnchor html element <a>
+* Learned to pass route parameters/Query parameters/fragments and fetch parameters/Query parameters/fragments using snapshot obj and Route Observables like this.ActivatedRoute.params
