@@ -28,3 +28,11 @@
 **Thoughts:** Today starting from morning 11.00am to midnight 12.00AM I sat for learning [course](https://www.udemy.com/course/the-complete-guide-to-angular-2/). Implemented parellely on a project what i am learning. at last for the challenge I dedicated last one hour of the day and added nested child routing. I have completed substantial part of course(Routing section gonna finish). Spent time for this was very large. wanna more efficient. wanna code for production ready projects like porting chrome extensions to firefox
 
 **Link to work:** https://github.com/siva-sankaran/AngularRecipeBook/commit/dffe16a1460d1a72cbcca39196ebbdd1a4485e5f
+
+### Day 3: November 1, 2020
+
+**Today's Progress**: Today I am working on an console application simulating energy monitor system. First time wrote unit tests. Felt the habit of unit testing is picking up for me. Technology used are dotnet core, nunit, Vs Code
+
+**Thoughts:**  Got more focus today. I've used time quite efficiently comparatively. Need to work on more focus, more efficient use of time
+
+**Link to work:** maintaining local repo. After asignment is assed, I wil push it
