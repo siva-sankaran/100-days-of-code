@@ -36,3 +36,11 @@
 **Thoughts:**  Got more focus today. I've used time quite efficiently comparatively. Need to work on more focus, more efficient use of time
 
 **Link to work:** maintaining local repo. After asignment is assed, I wil push it
+
+### Day 4: November 2, 2020
+
+**Today's Progress**: Came up with algorithm to decide which AC to switch on and off when Light is switching off and on respectively. Implemented that. Trying to separate that logic into separate object so that new rules can be used without much change in the code. Unit tests for Floor which test the above algorithm ran successfully.
+
+**Thoughts:** Frustrated to think up on the algorithm/rules. Took long break and completed. Need to do same type of exercises to do it more efficiently. 
+
+**Link to work:** https://github.com/siva-sankaran/EnergyManagement
