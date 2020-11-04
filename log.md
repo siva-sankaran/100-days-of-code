@@ -44,3 +44,22 @@
 **Thoughts:** Frustrated to think up on the algorithm/rules. Took long break and completed. Need to do same type of exercises to do it more efficiently. 
 
 **Link to work:** https://github.com/siva-sankaran/EnergyManagement
+
+
+### Day 5: November 4, 2020
+
+**Today's Progress**:  Yesterday was cheat day. I bbecame lazy and lose fire once got comfortable with new job and also got less time to work since baby sitter haven't show up.    minor bug fixed in process Sensor Input string method. With run time error, unit test cases added for Building class. most of the time worked in Unit test cases
+51 mins 	...Tests/BuildingTest.cs
+19 mins 	...Building.cs
+13 mins 	.vscode/launch.json
+10 mins 	ElectricityController/Floor.cs
+6 mins 	...NaturalLanguageInputProcess.cs
+3 mins 	...Program.cs
+2 mins 	...Tests/SmartControllerTest.cs
+1 min 	README.md
+1 min 	...Tests/SubCorridorTest.cs
+1 min 	...SmartController.cs
+
+**Thoughts:** Need to do more code. Need to spend more time. It is not enough
+
+**Link to work:** https://github.com/siva-sankaran/EnergyManagement/commit/93947168d253b6c0a2223ec8c076f700aa1750dc
