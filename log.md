@@ -49,17 +49,32 @@
 ### Day 5: November 4, 2020
 
 **Today's Progress**:  Yesterday was cheat day. I bbecame lazy and lose fire once got comfortable with new job and also got less time to work since baby sitter haven't show up.    minor bug fixed in process Sensor Input string method. With run time error, unit test cases added for Building class. most of the time worked in Unit test cases
-51 mins 	...Tests/BuildingTest.cs
-19 mins 	...Building.cs
-13 mins 	.vscode/launch.json
-10 mins 	ElectricityController/Floor.cs
-6 mins 	...NaturalLanguageInputProcess.cs
-3 mins 	...Program.cs
-2 mins 	...Tests/SmartControllerTest.cs
-1 min 	README.md
-1 min 	...Tests/SubCorridorTest.cs
-1 min 	...SmartController.cs
+* 51 mins 	...Tests/BuildingTest.cs
+* 19 mins 	...Building.cs
+* 13 mins 	.vscode/launch.json
+* 10 mins 	ElectricityController/Floor.cs
+* 6 mins 	...NaturalLanguageInputProcess.cs
+* 3 mins 	...Program.cs
+* 2 mins 	...Tests/SmartControllerTest.cs
+* 1 min 	README.md
+* 1 min 	...Tests/SubCorridorTest.cs
+* 1 min 	...SmartController.cs
 
 **Thoughts:** Need to do more code. Need to spend more time. It is not enough
 
 **Link to work:** https://github.com/siva-sankaran/EnergyManagement/commit/93947168d253b6c0a2223ec8c076f700aa1750dc
+
+
+### Day 6: November 5, 2020
+
+**Today's Progress**: Today mostly worked on processing input from console to accomodate redirected input from file. And made light property of corridor object private . The idea is if these implementation details are encapsulated, in future it is easy to extend like if more number of lights added per corridor
+
+**Thoughts:** Same as yesterday. Need to speed up. 
+
+**Link to work:** https://github.com/siva-sankaran/EnergyManagement/commit/aff7ede8b47fcfbfe5c300523195b883996a2980
+
+### Day 7: November 6, 2020
+
+**Today's Progress**:
+**Thoughts:**
+**Link to work:**
