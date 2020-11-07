@@ -75,6 +75,8 @@
 
 ### Day 7: November 6, 2020
 
-**Today's Progress**:
-**Thoughts:**
-**Link to work:**
+**Today's Progress**:  Refactored - Superclass Extracted from Light & Ac 
+
+**Thoughts:**  Having Good designed code is not done in one shot. It is a continous process. I have to tell myself this. We heard such voices everywhere like incremental design. Still mind is restricting to accept the fact i think. Only thing we had  in our hand is we need to keep on refactoring and thinking about alternatives and possibilities. Refactor catalogs liks https://refactoring.guru/refactoring/catalog or https://refactoring.com/catalog/ .
+
+**Link to work:** https://github.com/siva-sankaran/EnergyManagement/commit/f96cc54e3b5baa3368244d821770cefcac4d8132
